@@ -1,2 +1,2 @@
-# Brainwave_Matrix_Intern
+# FAKE NEWS DETACTION
 This implementation about Fake news Detection.
